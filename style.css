@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    background-color: tomato;
+}
+
+#searchBox{
+    height: 30px;
+    width: 200px;
+   
+}
+#button{
+    height: 36px; 
+
+}
+h1{
+    color: #454545; 
+}
+
+h4{
+    margin: 2px;
+    color: #454545; 
+}
+
+.poster{
+    
+    display: inline-block;
+    margin: 7px;
+    max-width: 285px;
+    max-height: 428px;
+    overflow: hidden;
+}
