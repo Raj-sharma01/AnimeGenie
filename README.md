@@ -1,2 +1,2 @@
-# AnimeGenie-
+# AnimeGenie
 An Anime Recommenndation Site
